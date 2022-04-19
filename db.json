@@ -1,0 +1,102 @@
+{
+    "cidades": [
+        {
+            "id": 1,
+            "key": "key_abadiania",
+            "nome": "Abadiânia",
+            "State": "GO",
+            "Visivel": "t"
+        },
+        {
+            "id": 2,
+            "key": "key_belem",
+            "nome": "Belém",
+            "State": "PA",
+            "Visivel": "f"
+        },
+        {
+            "id": 3,
+            "key": "key_belo-horizonte",
+            "nome": "Belo Horizonte",
+            "State": "MG",
+            "Visivel": "t"
+        },
+        {
+            "id": 4,
+            "key": "key_campinas",
+            "nome": "Campinas",
+            "State": "SP",
+            "Visivel": "t"
+        },
+        {
+            "id": 5,
+            "key": "key_diamantina",
+            "nome": "Diamantina",
+            "State": "MG",
+            "Visivel": "t"
+        },
+        {
+            "id": 6,
+            "key": "key_foz-do-iguacu",
+            "nome": "Foz do Iguaçu",
+            "State": "PR",
+            "Visivel": "t"
+        },
+        {
+            "id": 7,
+            "key": "key_fraiburgo",
+            "nome": "Fraiburgo",
+            "State": "SC",
+            "Visivel": "t"
+        },
+        {
+            "id": 8,
+            "key": "key_franca",
+            "nome": "Franca",
+            "State": "SP",
+            "Visivel": "f"
+        },
+        {
+            "id": 9,
+            "key": "key_goiania",
+            "nome": "Goiânia",
+            "State": "GO",
+            "Visivel": "t"
+        },
+        {
+            "id": 10,
+            "key": "key_novo-hamburgo",
+            "nome": "Novo Hamburgo",
+            "State": "RS",
+            "Visivel": "f"
+        },
+        {
+            "id": 11,
+            "key": "key_rio-de-janeiro",
+            "nome": "Rio de Janeiro",
+            "State": "RJ",
+            "Visivel": "t"
+        },
+        {
+            "id": 12,
+            "key": "key_sao-paulo",
+            "nome": "São Paulo",
+            "State": "SP",
+            "Visivel": "t"
+        },
+        {
+            "id": 13,
+            "key": "key_sao-sebastiao",
+            "nome": "São Sebastião",
+            "State": "Falta",
+            "Visivel": "f"
+        },
+        {
+            "id": 14,
+            "key": "key_volta-redonda",
+            "nome": "Volta Redonda",
+            "State": "RJ",
+            "Visivel": "t"
+        }
+    ]
+}
